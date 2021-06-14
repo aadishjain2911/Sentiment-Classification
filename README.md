@@ -9,7 +9,7 @@ Sentiment Classification of IMDb Movie Reviews in Keras
 - After Hyperparameter Tuning, the best accuracies achieved were **Training Accuracy - 87.45% & Validation Accuracy - 85.24%**
 
 ## Notebooks Descriptions:
-- `Sentiment_Class_fication_of_IMDb_Movie_Reviews.ipynb`: Single Bi-LSTM layer with no Flatten Layer and Batch Normalization
-- `Sentiment_Class_fication_of_IMDb_Movie_Reviews_v2.ipynb`: Double Bi-LSTM layers with Flatten Layer and Batch Normalization with momentum = 0.9
-- `Sentiment_Class_fication_of_IMDb_Movie_Reviews_v3.ipynb`: Double Uni-LSTM layers with Flatten Layer and Batch Normalization with momentum = 0.9
-- `Sentiment_Class_fication_of_IMDb_Movie_Reviews_v4.ipynb`: Double Bi-LSTM layers with Flatten Layer and Batch Normalization with momentum = 0.999
+- `Sentiment_Classification_of_IMDb_Movie_Reviews.ipynb`: Single Bi-LSTM layer with no Flatten Layer and Batch Normalization
+- `Sentiment_Classification_of_IMDb_Movie_Reviews_v2.ipynb`: Double Bi-LSTM layers with Flatten Layer and Batch Normalization with momentum = 0.9
+- `Sentiment_Classification_of_IMDb_Movie_Reviews_v3.ipynb`: Double Uni-LSTM layers with Flatten Layer and Batch Normalization with momentum = 0.9
+- `Sentiment_Classification_of_IMDb_Movie_Reviews_v4.ipynb`: Double Bi-LSTM layers with Flatten Layer and Batch Normalization with momentum = 0.999
