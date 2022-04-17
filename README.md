@@ -1,7 +1,7 @@
 # Sentiment-Classification
 Sentiment Classification of IMDb Movie Reviews in Keras
 ## Getting Started:
-- Use Google Colab for running the notebooks after uploading the dataset on colab session
+- Used Google Colab for running the notebooks after uploading the dataset on colab session
 
 ## Description
 - We used glove 200D data for word embeddings and WordCloud visualization to analyze the data
